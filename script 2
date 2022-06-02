@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ps -ef --no-headers|sort -n -k2|grep -E -v 'ps -ef --no-headers|sort -n -k2'> new_file2.txt
