@@ -1,0 +1,6 @@
+root         1     0  0 18:59 ?        00:00:00 /init
+root       453     1  0 19:22 ?        00:00:00 /init
+root       454   453  0 19:22 ?        00:00:00 /init
+roma       455   454  0 19:22 pts/0    00:00:00 -bash
+roma       762   455  0 19:24 pts/0    00:00:00 /bin/bash ./script2ForExadelTest.sh
+roma       765   762  0 19:24 pts/0    00:00:00 /bin/bash ./script2ForExadelTest.sh
